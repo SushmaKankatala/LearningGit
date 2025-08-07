@@ -1,0 +1,22 @@
+# Maven
+target/
+*.jar
+*.war
+*.ear
+*.class
+
+# Maven installation files
+apache-maven-*-bin.tar.gz
+apache-maven-*/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
